@@ -1,0 +1,51 @@
+No,NRP,Nama,harga rumah,jumlah kamar tidur,jumlah kamar mandi,luas tanah (m2),luas bangunan (m2),carport (mobil),pasokan listrik (watt),Kabupaten/Kota,kecamatan,kelurahan,keamanan (ada/tidak),taman (ada/tidak),jarak dengan rumah sakit terdekat (km),jarak dengan sekolah terdekat (km),jarak dengan tol terdekat (km),Link Data Rumah
+1,2172015,Dave,"Rp 540,000,000.00",2,2,25,45,0,22000,Jakarta Pusat,Kemayoran,Kebon Kosong,ada,tidak,2.7,1.7,4.1,https://www.rumah123.com/properti/jakarta-pusat/hos17125999/
+2,2172015,Dave,"Rp 4,870,000,000.00",1,1,336,366,2,450,Jakarta Pusat,Cempaka Putih,Cempaka Putih Timur,tidak,ada,4.6,1.7,6,https://www.rumah123.com/properti/jakarta-pusat/hos15565093/
+3,2172015,Dave,"Rp 15,900,000,000.00",1,1,433,433,1,900,Jakarta Pusat,Gambir,Petojo Selatan,ada,ada,6.1,5.5,8.8,https://www.rumah123.com/properti/jakarta-pusat/hos15507662/
+4,2172015,Dave,"Rp 90,000,000,000.00",6,6,1225,800,10,33000,Jakarta Pusat,Menteng,Cikini,tidak,ada,4.6,1.5,9.9,https://www.rumah123.com/properti/jakarta-pusat/hos16480273/
+5,2172015,Dave,"Rp 2,100,000,000.00",2,2,72,110,1,2200,Jakarta Pusat,Cideng,Cideng Raya,tidak,tidak,0.1,0.2,7.8,https://www.rumah123.com/properti/jakarta-pusat/hos10237930/
+6,2172015,Dave,"Rp 12,500,000,000.00",1,1,601,300,0,2200,Jakarta Pusat,Cempaka Putih,Cempaka Putih Timur,tidak,tidak,0.7,0.3,3,https://www.rumah123.com/properti/jakarta-pusat/hos17206480/
+7,2172015,Dave,"Rp 3,800,000,000.00",3,3,140,117,2,3500,Jakarta Pusat,Tanah Abang,Bendungan Hilir,tidak,ada,0.5,2.3,5.2,https://www.rumah123.com/properti/jakarta-pusat/hos16905069/
+8,2172015,Dave,"Rp 470,000,000.00",2,1,23,57,0,1300,Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,ada,tidak,2.3,0.3,3.2,https://www.rumah123.com/properti/jakarta-pusat/hos16199855/
+9,2172015,Dave,"Rp 3,750,000,000.00",4,5,136,260,1,10000,Jakarta Pusat,Senen,Bungur,tidak,ada,3.6,6.2,4.8,https://www.rumah123.com/properti/jakarta-pusat/hos14347347/
+10,2172015,Dave,"Rp 8,000,000,000.00",4,3,180,500,2,16500,Jakarta Pusat,Kemayoran,Springhill Residence,ada,ada,4.6,8.7,4.5,https://www.rumah123.com/properti/jakarta-pusat/hos16788433/
+11,2172015,Dave,"Rp 5,250,000,000.00",8,3,160,250,1,3500,Jakarta Pusat,Tanah Abang,Karet Tengsin,ada,ada,0.5,2.3,5.2,https://www.rumah123.com/properti/jakarta-pusat/hos15523487/
+12,2172015,Dave,"Rp 20,000,000,000.00",8,8,555,600,0,10000,Jakarta Pusat,Menteng,Menteng,tidak,tidak,3.5,1.2,7.8,https://www.rumah123.com/properti/jakarta-pusat/hos14754767/
+13,2172015,Dave,"Rp 895,000,000.00",3,2,25,73,1,2200,Jakarta Pusat,Cempaka Putih,Green Pramuka,ada,ada,2.7,5,5.4,https://www.rumah123.com/properti/jakarta-pusat/hos17278152/
+14,2172015,Dave,"Rp 19,000,000,000.00",8,8,537,1100,2,10000,Jakarta Pusat,Menteng,Menteng,tidak,tidak,3.5,1.2,7.8,https://www.rumah123.com/properti/jakarta-pusat/hos15538658/
+15,2172015,Dave,"Rp 13,000,000,000.00",2,1,241,200,1,2200,Jakarta Pusat,Tanah Abang,Bendungan Hilir,ada,tidak,0.5,2.3,5.2,https://www.rumah123.com/properti/jakarta-pusat/hos17268377/
+16,2172015,Dave,"Rp 2,500,000,000.00",2,2,87,100,1,2200,Jakarta Pusat,Johar Baru,Johar Baru,tidak,tidak,2,0.4,5,https://www.rumah123.com/properti/jakarta-pusat/hos17015854/
+17,2172015,Dave,"Rp 2,060,000,000.00",3,3,61,86,1,2200,Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,ada,ada,2.7,0.5,6.7,https://www.rumah123.com/properti/jakarta-pusat/hos17300070/
+18,2172015,Dave,"Rp 73,000,000,000.00",5,3,743,743,0,3300,Jakarta Pusat,Menteng,Gondangdia,tidak,tidak,3.3,2.8,12,https://www.rumah123.com/properti/jakarta-pusat/hos10380369/
+19,2172015,Dave,"Rp 69,000,000,000.00",8,4,785,700,2,33000,Jakarta Pusat,Menteng,Menteng,tidak,tidak,3.5,1.2,7.8,https://www.rumah123.com/properti/jakarta-pusat/hos15002827/
+20,2172015,Dave,"Rp 13,000,000,000.00",5,5,338,800,1,23000,Jakarta Pusat,Sawah Besar,Kartini,tidak,ada,1.9,1.5,4.5,https://www.rumah123.com/properti/jakarta-pusat/hos17128661/
+21,2172015,Dave,"Rp 2,400,000,000.00",3,3,77,96,1,2200,Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,ada,ada,2.7,0.5,6.7,https://www.rumah123.com/properti/jakarta-pusat/hos17169452/
+22,2172015,Dave,"Rp 680,000,000.00",2,2,20,34,0,2200,Jakarta Pusat,Sawah Besar,Sawah Besar,ada,ada,2.7,0.7,4.8,https://www.rumah123.com/properti/jakarta-pusat/hos17171316/
+23,2172015,Dave,"Rp 17,500,000,000.00",4,2,595,400,2,3500,Jakarta Pusat,Senen,Senen,ada,ada,1.1,3.3,6.4,https://www.rumah123.com/properti/jakarta-pusat/hos16842780/
+24,2172015,Dave,"Rp 8,500,000,000.00",3,2,234,200,1,3300,Jakarta Pusat,Gambir,Petojo Selatan,tidak,tidak,2.8,6,4.7,https://www.rumah123.com/properti/jakarta-pusat/hos8846249/
+25,2172015,Dave,"Rp 99,000,000,000.00",5,3,885,445,1,5500,Jakarta Pusat,Menteng,Menteng,tidak,tidak,3.5,1.2,7.8,https://www.rumah123.com/properti/jakarta-pusat/hos15472370/
+26,2172015,Dave,"Rp 26,000,000,000.00",4,3,598,598,1,4400,Jakarta Pusat,Tanah Abang,Bendungan Hilir,tidak,tidak,0.5,2.3,5.2,https://www.rumah123.com/properti/jakarta-pusat/hos8983465/
+27,2172015,Dave,"Rp 17,000,000,000.00",2,2,460,460,0,2200,Jakarta Pusat,Gambir,Petojo Selatan,tidak,tidak,3,6.6,4.7,https://www.rumah123.com/properti/jakarta-pusat/hos15358620/
+28,2172015,Dave,"Rp 1,850,000,000.00",5,2,93,180,1,1300,Jakarta Pusat,Sawah Besar,Kartini,ada,ada,1.9,1.5,4.5,https://www.rumah123.com/properti/jakarta-pusat/hos16964012/
+29,2172015,Dave,"Rp 3,750,000,000.00",3,2,171,170,0,3500,Jakarta Pusat,Johar Baru,Johar Baru,tidak,ada,2,0.4,5,https://www.rumah123.com/properti/jakarta-pusat/hos17257528/
+30,2172015,Dave,"Rp 169,000,000,000.00",4,3,2106,500,6,3500,Jakarta Pusat,Senen,Kebon Sirih,tidak,tidak,2.4,4.5,7.9,https://www.rumah123.com/properti/jakarta-pusat/hos17273486/
+31,2172015,Dave,"Rp 35,000,000,000.00",5,3,664,1000,0,44000,Jakarta Pusat,Tanah Abang,Kebon Kacang,ada,ada,3.5,4.5,4.4,https://www.rumah123.com/properti/jakarta-pusat/hos16710457/
+32,2172015,Dave,"Rp 900,000,000.00",10,3,59,112,0,4400,Jakarta Pusat,Sawah Besar,Sahari Utara,tidak,tidak,2.7,2.5,4.5,https://www.rumah123.com/properti/jakarta-pusat/hos15735490/
+33,2172015,Dave,"Rp 4,300,000,000.00",4,3,145,250,0,7700,Jakarta Pusat,Johar Baru,Percetakan Negara,tidak,ada,4.7,0.4,4.6,https://www.rumah123.com/properti/jakarta-pusat/hos16014196/
+34,2172015,Dave,"Rp 69,400,000,000.00",4,2,694,420,2,3500,Jakarta Pusat,Tanah Abang,Duku Atas,tidak,ada,4.1,2.7,13,https://www.rumah123.com/properti/jakarta-pusat/hos17248540/
+35,2172015,Dave,"Rp 37,500,000,000.00",6,6,1078,900,3,3500,Jakarta Pusat,Menteng,Gondangdia,ada,ada,3.3,2.8,12,https://www.rumah123.com/properti/jakarta-pusat/hos17191864/
+36,2172015,Dave,"Rp 4,500,000,000.00",5,2,235,400,1,4400,Jakarta Pusat,Johar Baru,Percetakan Negara,ada,ada,4.7,0.4,4.6,https://www.rumah123.com/properti/jakarta-pusat/hos17028637/
+37,2172015,Dave,"Rp 8,500,000,000.00",23,23,73,402,0,4400,Jakarta Pusat,Gambir,Petojo Selatan,tidak,tidak,6.1,5.5,8.8,https://www.rumah123.com/properti/jakarta-pusat/hos17229875/
+38,2172015,Dave,"Rp 27,000,000,000.00",4,5,276,450,2,7700,Jakarta Pusat,Menteng,Menteng,tidak,ada,3.5,1.2,7.8,https://www.rumah123.com/properti/jakarta-pusat/hos12555018/
+39,2172015,Dave,"Rp 5,840,000,000.00",5,5,497,800,2,5500,Jakarta Pusat,Kemayoran,Sumur Batu,ada,ada,2.3,5.6,2.3,https://www.rumah123.com/properti/jakarta-pusat/hos13693349/
+40,2172015,Dave,"Rp 6,500,000,000.00",14,14,208,600,1,5500,Jakarta Pusat,Cempaka Putih,Rawasari,ada,ada,4.7,0.5,2.7,https://www.rumah123.com/properti/jakarta-pusat/hos17269492/
+41,2172015,Dave,"Rp 10,900,000,000.00",5,4,435,600,2,3500,Jakarta Pusat,Gambir,Petojo,ada,ada,6.1,5.5,8.8,https://www.rumah123.com/properti/jakarta-pusat/hos10794531/
+42,2172015,Dave,"Rp 2,700,000,000.00",3,1,93,80,2,2200,Jakarta Pusat,Gambir,Petojo,ada,ada,6.1,5.5,8.8,https://www.rumah123.com/properti/jakarta-pusat/hos13635932/
+43,2172015,Dave,"Rp 90,000,000,000.00",3,3,1018,1100,0,16500,Jakarta Pusat,Menteng,Hos Cokroaminoto,tidak,tidak,3.3,3,10,https://www.rumah123.com/properti/jakarta-pusat/hos17334208/
+44,2172015,Dave,"Rp 16,000,000,000.00",4,2,446,300,0,4400,Jakarta Pusat,Menteng,Menteng,tidak,ada,3.3,1.4,7,https://www.rumah123.com/properti/jakarta-pusat/hos17388752/
+45,2172015,Dave,"Rp 23,000,000,000.00",5,5,555,800,5,10000,Jakarta Pusat,Menteng,Menteng,ada,tidak,3.9,1.2,6.2,https://www.rumah123.com/properti/jakarta-pusat/hos17357385/
+46,2172015,Dave,"Rp 4,350,000,000.00",5,2,209,150,1,10600,Jakarta Pusat,Cempaka Putih,Cempaka Putih Tengah,ada,ada,3.1,6.1,6.4,https://www.rumah123.com/properti/jakarta-pusat/hos15700389/
+47,2172015,Dave,"Rp 5,900,000,000.00",4,5,250,499,2,7700,Jakarta Pusat,Cempaka Putih,Cempaka Putih Timur,ada,ada,4.6,1.7,6,https://www.rumah123.com/properti/jakarta-pusat/hos16522294/
+48,2172015,Dave,"Rp 95,000,000,000.00",5,5,864,1400,0,7700,Jakarta Pusat,Menteng,Menteng,tidak,tidak,3.5,1.2,7.8,https://www.rumah123.com/properti/jakarta-pusat/hos16288432/
+49,2172015,Dave,"Rp 30,000,000,000.00",5,5,842,1000,6,30000,Jakarta Pusat,Cempaka Putih,Cempaka Putih Barat,tidak,ada,2.3,0.3,3.2,https://www.rumah123.com/properti/jakarta-pusat/hos14735022/
+50,2172015,Dave,"Rp 5,390,000,000.00",5,3,180,460,1,2200,Jakarta Pusat,Cempaka Putih,Cempaka Putih Tengah,tidak,ada,3.1,6.1,6.4,https://www.rumah123.com/properti/jakarta-pusat/hos17287553/
